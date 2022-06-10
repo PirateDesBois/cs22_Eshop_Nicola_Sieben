@@ -3,5 +3,5 @@
 Hello, here is my js project during my Web Developer's courses at Molengeek. 
 
 
-<img src="./public/img/presentation/1.png" style="width: 1000px; height: max-content; margin-bottom: 50px; margin-top: 30px;" alt="plop">
+<img src="./img/presentation/1.png" style="width: 1000px; height: max-content; margin-bottom: 50px; margin-top: 30px;" alt="plop">
 
